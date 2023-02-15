@@ -2,4 +2,4 @@
 
 Üdv a kurzuson! Ezen az oldalon jelennek meg hétről hétre az információk.
 
-1. hét
+'1. hét
